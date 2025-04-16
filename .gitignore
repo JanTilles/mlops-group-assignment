@@ -4,6 +4,9 @@ mlruns/
 # Ignore MLflow database file
 mlflow.db
 
+# Ignore mlflow_test.py script
+mlflow_test.py
+
 # Ignore Python cache files
 __pycache__/
 *.pyc
