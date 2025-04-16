@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/JanTilles/Documents/Turku%20AMK/MLOps/mlruns/0/07fda793012a482381476bf9880ffcd8/artifacts
+end_time: 1739528425517
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 07fda793012a482381476bf9880ffcd8
+run_name: spiffy-shark-316
+run_uuid: 07fda793012a482381476bf9880ffcd8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739528423885
+status: 3
+tags: []
+user_id: JanTilles

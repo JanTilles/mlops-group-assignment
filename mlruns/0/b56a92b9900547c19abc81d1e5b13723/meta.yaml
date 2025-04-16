@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/JanTilles/Documents/Turku%20AMK/MLOps/mlruns/0/b56a92b9900547c19abc81d1e5b13723/artifacts
+end_time: 1739528300128
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b56a92b9900547c19abc81d1e5b13723
+run_name: invincible-crab-511
+run_uuid: b56a92b9900547c19abc81d1e5b13723
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739528299204
+status: 3
+tags: []
+user_id: JanTilles

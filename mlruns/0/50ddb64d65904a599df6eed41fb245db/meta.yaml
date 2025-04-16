@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/JanTilles/Documents/Turku%20AMK/MLOps/mlruns/0/50ddb64d65904a599df6eed41fb245db/artifacts
+end_time: 1739196354084
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 50ddb64d65904a599df6eed41fb245db
+run_name: persistent-crow-197
+run_uuid: 50ddb64d65904a599df6eed41fb245db
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739196347435
+status: 3
+tags: []
+user_id: JanTilles

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/JanTilles/Documents/Turku%20AMK/MLOps/mlruns/0/46a9fc818fe14653adcdb7fdbb13940f/artifacts
+end_time: 1739528178319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46a9fc818fe14653adcdb7fdbb13940f
+run_name: nimble-shrimp-948
+run_uuid: 46a9fc818fe14653adcdb7fdbb13940f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1739528177668
+status: 3
+tags: []
+user_id: JanTilles
