@@ -15,6 +15,7 @@ MLOps/
 ├── mlflow_notebook.ipynb   # Jupyter Notebook for MLflow experiments
 ├── .gitignore              # Gitignore file to exclude unnecessary files
 ├── README.md               # Documentation for the repository
+├── requirements.txt        # Dependencies for the project
 └── mlruns/                 # Folder for MLflow runs (ignored in .gitignore)
 ```
 

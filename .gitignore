@@ -1,6 +1,9 @@
 # Ignore MLflow runs folder
 mlruns/
 
+# Ignore MLflow database file
+mlflow.db
+
 # Ignore Python cache files
 __pycache__/
 *.pyc
