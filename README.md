@@ -51,10 +51,10 @@ Open the `train_model.ipynb` file in Jupyter Notebook and execute the cells to:
 ### 3. View Results in MLflow UI
 Access the MLflow UI at `http://127.0.0.1:5000` to view experiment results.
 
-### 4. Run second Notebook
+### 4. Use the Model
 Open the `use_model.ipynb` file in Jupyter Notebook and execute the cells to:
-- Load model from mlflow
-- Use the model to make predictions on Iris dataset
+- Load a trained model from MLflow.
+- Use the model to make predictions on the Iris dataset.
 
 ## Example Output In MlFlow
 - **Experiment Name**: `iris_models_experiment`
